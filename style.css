@@ -1,0 +1,87 @@
+p{
+    color: blue;
+    margin: 5px;
+    padding: 5px;
+    font-size: 25px;
+    }
+    
+    h1{
+    color: green;
+    background-color: violet;
+    }
+    
+    .boton-ingresar{
+      display: flex;
+      text-align:center;
+      justify-content:center;
+      background-color: none;
+      border: 2 px solid green;
+      margin: 10px;
+      padding: 10px;
+      flex-wrap: nowrap;
+    }
+    .boton-ingresar:hover{
+      background-color: red;
+      font-size: 20px;
+    }
+    .boton-recuperar:hover{
+      background-color: red;
+      font-size: 20px;
+    }
+    .boton-registrar:hover{
+      background-color: Yellow;
+      font-size: 20px;
+    }
+    .boton-recuperar{
+      display: flex;
+      text-align:center;
+      justify-content:center;
+    }
+    .ingresar{
+      background-color: pink;
+    }
+    .entradas-texto{
+      border: 1px solid red;
+      margin: 5px;
+      padding: 5px;
+      display: flex;
+      text-align: center;
+      justify-content: center;
+      background: pink;
+    
+    }
+    .entradas-contrasena{
+      border: 1px solid red;
+      margin: 5px;
+      padding: 5px;
+        display: flex;
+      text-align: center;
+      justify-content: center;
+      background: gray;
+    }
+    .boton-registrar{
+      display: flex;
+      text-align: center;
+      justify-content: center;
+      border: 2 px solid green;
+      margin: 10px;
+      padding: 10px;
+      flex-wrap: nowrap;
+    }
+    .texto{
+      display: flex;
+      text-align: center;
+      justify-content: center;
+    }
+    h2{
+      color: blue;
+        display: flex;
+      text-align: right;
+      justify-content: right;
+    }
+    .imagen{
+      margin: auto;
+      display: flex;
+      text-align: right;
+      justify-content: center;
+    }
